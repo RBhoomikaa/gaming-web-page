@@ -1,0 +1,217 @@
+* {
+    margin: 0px 8px 5px 5px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+header {
+    margin-bottom: 0%;
+    width: 100%;
+    height: 150px;
+
+    text-align: center;
+    line-height: 75px;
+    background-image: url(https://media.istockphoto.com/vectors/computer-games-seamless-background-vector-id528711245?b=1&k=6&m=528711245&s=612x612&w=0&h=zKGpDrFzAtNBAkze6CneYPH2cPtjgTIm94yJKalnpUc=
+);
+}
+
+.logo p button {
+
+    color: white;
+    background-color: black;
+    opacity: 0.8;
+    padding: 10px;
+    font-weight: normal;
+    font-size: large;
+}
+
+nav {
+    text-align: center;
+    border: solid;
+    border-color: black;
+    width: 100%;
+    height: 90px;
+    background-image: url(https://i.pinimg.com/originals/79/73/e9/7973e9a92e0ce745a60614beceba961f.gif
+);
+}
+
+nav ul li {
+
+    text-align: center;
+    display: inline-block;
+
+}
+
+nav a {
+    border: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    padding:80px 80px;
+}
+
+nav ul {
+    margin-top: 30px;
+}
+.aboutme p{
+    text-align:center;
+
+}
+.video {
+    display:block;
+    margin:auto;
+    width:100%;
+    height:330px;
+    display:flex;
+    justify-content:center;
+}
+.iam p{
+    text-align:center;
+    margin:0px;
+    padding:0px;
+}
+.real p{
+    text-align:center;
+    font-size:15px
+}
+.para p{
+    text-align:center;
+    font-size:15px;
+    font-family:'Courier New', Courier, monospace;
+}
+.nw p{
+    text-align:center;
+    font-size:25px;
+}
+.box {
+    padding: 16px 24px;
+    display:flex;
+    flex-direction:row;
+}
+.add {
+    padding: 24px 20px;
+    text-align:left;
+    color: white;
+    width: 200px;
+    height: 350px;
+    font-family:'Courier New', Courier, monospace;
+    font-size:14px;
+    background-image:url(https://media.istockphoto.com/vectors/gaming-gadgets-seamless-pattern-in-deep-blue-outline-esports-pc-and-vector-id1166885668?b=1&k=6&m=1166885668&s=612x612&w=0&h=e3Umh8igr2Epd1dZYi0dkuGx4i5CQpl9Ep3ktbwKHf4=);
+}
+.nabtg{
+    padding: 24px 24px;
+    width: 750px;
+    height: 350px;
+    color: white;
+    font-size:14px;
+    font-family:'Courier New', Courier, monospace;
+    background-image: url(https://media.istockphoto.com/vectors/gaming-gadgets-seamless-pattern-in-deep-blue-outline-esports-pc-and-vector-id1166885668?b=1&k=6&m=1166885668&s=612x612&w=0&h=e3Umh8igr2Epd1dZYi0dkuGx4i5CQpl9Ep3ktbwKHf4=);
+}
+.promo {
+    padding: 24px 20px;
+    text-align:left;
+    color: white;
+    width: 200px;
+    height: 350px;
+    font-size:14px;
+    font-family:'Courier New', Courier, monospace;
+    background-image:url(https://media.istockphoto.com/vectors/gaming-gadgets-seamless-pattern-in-deep-blue-outline-esports-pc-and-vector-id1166885668?b=1&k=6&m=1166885668&s=612x612&w=0&h=e3Umh8igr2Epd1dZYi0dkuGx4i5CQpl9Ep3ktbwKHf4=);  
+}
+.att{
+    text-align:left;
+}
+.fris{
+
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.f{
+    border-radius: 5px;
+    display: inline-block;
+    background-color: rgba(209, 220, 226, 0.856);
+    width: 300px;
+    height: 400px;
+    font-family:'Courier New', Courier, monospace;
+    font-size:15px;
+}
+
+.f img {
+    margin-top:13px;
+    margin-left: 90px;
+    border: 2px solid black;
+     width: 100px;
+    border-radius: 70%;
+    font-family:'Courier New', Courier, monospace;
+}
+h4{
+    font-size:18px;
+    text-align:center;
+}
+.fg{
+    font-size:20px;
+}
+.pictures{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    border:5;
+}
+.pg{
+    
+    align-items: flex-start;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+    justify-content: center;
+    display: inline-block;
+    background-color:white;   
+   
+}
+#first img{
+    height:200px;
+   
+    }
+#second img{
+    height:200px;
+
+}
+#third img{
+    height:200px;
+
+}
+#four img{
+    height:200px;
+
+}
+.pg img{
+    margin:0;
+    height:fit-content;
+    width:300px;
+}
+.sub{
+
+    margin-bottom: 60px;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+    height: 150px;
+    background-image: url(https://i.pinimg.com/originals/67/c0/d2/67c0d28e4408d3edc51bca5c1854c65d.gif);
+}
+.subs button{
+    background-color: rgba(245, 23, 23, 0.767);
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-size:15px;
+    margin-top: 50px;
+    padding: 10px;
+    font-weight: normal;
+    font-size: large;
+}
+.abt{
+    text-align: justify;
+    margin-top: 20px;
+    background-color: grey;
+}

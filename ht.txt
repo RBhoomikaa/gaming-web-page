@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Gaming-Webpage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <header>
+        <div class="logo">
+            <p> <button>Gaming Blog</button></p>
+        </div>
+    </header>
+    
+    <nav>
+        <div class="navigation">
+
+            <ul>
+                <li> <a href="#home">Home</a> </li>
+                <li><a href="#news">News</a> </li>
+                <li><a href="#Favourite-games">Favourite-game</a> </li>
+                <li> <a href="#contact">Contact</a> </li>
+                <li> <a href="#about">About </a></li>
+            </ul>
+
+        </div>
+    </nav>
+    </body>
+    <body>
+    <div class="aboutme">
+     <p><b>About Me,The Gaming geek</b></p>
+    </div>
+    </body>
+    <body>
+        <div class="video">
+        <embed style="width:600px;  height:300px;"src="https://www.youtube.com/embed/KgRh8Png7iQ?autoplay=1&mute=1" width="100%" height="300">
+        </embed>
+        </div>
+        </body> 
+        <body>
+            <div class="iam">
+            <p><b>I am Who I Am!</b></p>
+            </div>
+        </body>  
+        <body>
+            <div class="real">
+                <p><i>with passion For Real,Gaming Treat</i></p>
+                </div>
+        </body> 
+        <body>
+            <div class="para">
+                <p>
+                    Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of
+                    lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus
+                    ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.
+                    Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum,porto lectus vitoe,ultricies
+                    congue gravida diam non fringilla.preasent tinciduant sed tellus ut rutrum.Sed vitae justo condimentum
+                    porta lctus vitae,ultricies congue gravinda diam non fringilla.</p>
+            </div>
+        </body> 
+<body>
+            <hr></hr>
+        </body>
+        <body>
+            <div class="nw">
+                <p><b>News</b></p>
+            </div>
+        </body>
+        <body>
+            <div class="box">
+                <div class="add">
+                    <h2>Ad Content</h2>
+                    <p class="addp"><br>Lorem ipsum dolor it amet,consectetur adipisicing elit..</p>
+                </div>
+            <div class="nabtg">
+            <h2>News About Gaming</h2>
+                <p class="nabtgp"><br>PUBG mobile developer krafton has invested $22.4 million (around Rs 164 crore)in Indian esports and gaming firm nodwin gamin.
+                    The south Korean game developer and publisher is said to invest in nodwin gaming to "mointoin some presence in what was once its key overseas market".according to a TechCrunch report.
+                    <br><br>Krafton is the publisher and owner of popular games like PUBG and PUBG mobils.</p>
+            </div>
+             <div class="promo">
+                <h2>Promotion</h2>
+                <p class="promop"><br>Lorem ipsum dolor it amet,consectetur adipisicing elit..</p>
+             </div>
+             </div>
+        </body>
+        <body>
+            <hr></hr>
+        </body>
+        <body>
+            <div class="att">
+                <h3>About The Game</h3>
+            </div>
+        </body>
+        <body>
+            <div class="fris">
+                <div class="f">
+                    <img src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg"alt="">
+                 <h4><b>Friend#1</b></h4>
+                 <p>I first met Courtney in my first year of middle school in my English room. She was so warm and
+                    kind that I felt honored to speak to such a nice angel. Courtney became my first true friend that I
+                    could ever count on. She was always there ina heartbeat when I needed hec wise words of wisdom.</p>
+                </div>
+                <div class="f">
+                    <img src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg"alt="">
+                 <h4><b>Friend#2</b></h4>
+                 <p>I first met Courtney in my first year of middle school in my English room. She was so warm and
+                    kind that I felt honored to speak to such a nice angel. Courtney became my first true friend that I
+                    could ever count on. She was always there in a heartbeat when I needed her wise words of wisdom.</p>
+                </div>
+                <div class="f">
+                    <img src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg"alt="">
+                 <h4><b>Friend#3</b></h4>
+                 <p>I first met Courtney in my first year of middle school in my English room. She was so warm and
+                    kind that I felt honored to speak to such a nice angel. Courtney became my first true friend that I
+                    could ever count on. She was always there in a heartbeat when I needed her wise words of wisdom.</p>
+                </div>
+                <div class="f">
+                    <img src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg"alt="">
+                 <h4><b>Friend#4</b></h4>
+                 <p>I first met Courtney in my first year of middle school in my English room. She was so warm and
+                    kind that I felt honored to speak to such a nice angel. Courtney became my first true friend that I
+                    could ever count on. She was always there in a heartbeat when I needed her wise words of wisdom.</p>
+                </div>
+                </div>
+
+            
+        </body>
+        <body>
+            <hr></hr>
+        </body>
+        <body>
+            <div class="fg">
+                <p><b>Favourite Game</b></p>
+            </div>
+        </body>
+        <body>
+            <div class="pictures">
+                <div class="pg">
+                   <div id="first"> <img src="https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pubg_game_660_141020121948.jpg" alt="pubg">
+                 <p>PUBG</p>
+                </div>
+                </div>
+                <div class="pg">
+                    <div id="second">  <img src="http://i.imgur.com/nigFO5X.jpg">
+                    <p>Clash of clones</p>
+                </div>
+                </div>
+                <div class="pg">
+                    <div id="third">   <img src="https://venturebeat.com/wp-content/uploads/2020/05/Garena-Free-Fire.jpg?w=1200&strip=all">
+                 <p>free fire</p>
+                </div>
+                </div>
+                <div class="pg">
+                    <div id="four">  <img src="https://cdn2.unrealengine.com/14br-consoles-1920x1080-wlogo-1920x1080-432974386.jpg">
+                <p>fortnite</p>
+                </div>
+                </div>
+                </div>
+        </body>
